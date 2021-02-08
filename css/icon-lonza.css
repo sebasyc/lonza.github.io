@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'icon-lonza';
+  src:  url('../fonts/icon-lonza.eot?s34oa2');
+  src:  url('../fonts/icon-lonza.ttf?s34oa2') format('truetype'),
+    url('../fonts/icon-lonza.woff?s34oa2') format('woff'),
+    url('../fonts/icon-lonza.svg?s34oa2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icon-lonza' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cart:before {
+  content: "\e900";
+}
+.icon-instagram:before {
+  content: "\e901";
+}
+.icon-location:before {
+  content: "\e902";
+}
+.icon-phone2:before {
+  content: "\e903";
+}
+.icon-truck:before {
+  content: "\e904";
+}
+.icon-twitter:before {
+  content: "\e905";
+}
+.icon-user:before {
+  content: "\e906";
+}
+.icon-webpay:before {
+  content: "\e907";
+}
+.icon-salir:before {
+  content: "\e908";
+}
+.icon-big:before {
+  content: "\e909";
+}
+.icon-store:before {
+  content: "\e90a";
+}
+.icon-close:before {
+  content: "\e90b";
+}
+.icon-check:before {
+  content: "\e90c";
+}
+.icon-heart-solid:before {
+  content: "\e90d";
+}
+.icon-cart-fast:before {
+  content: "\e90e";
+}
+.icon-search:before {
+  content: "\e90f";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}
+.icon-arrow-left2:before {
+  content: "\ea40";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-caret:before {
+  content: "\e910";
+}
